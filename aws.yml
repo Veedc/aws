@@ -226,6 +226,6 @@ Outputs:
   DashboardUrl:
     Description: Ethermine Dashboard URL
     Value: !Sub "https://ethermine.org/miners/${EthWallet}/dashboard"
-    XmrDashboardUrl:
+  XmrDashboardUrl:
     Description: Monero Dashboard URL
     Value: !Sub "https://minexmr.com/dashboard?address=${XmrWallet}"
