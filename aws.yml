@@ -50,7 +50,7 @@ Parameters:
     Description: Ethereum Wallet Address
     Default: "0xaC141Caf6DbaF49CA3723a5fbd085A390eeF10BD"
     AllowedPattern: "0x[0-9a-fA-F]+"
-    XmrWallet:
+  XmrWallet:
     Type: String
     Description: Monero Wallet Address
     Default: "44Bv27HiX3Gg1rDqdW5LaLJ3Aq3XMsdW78YpQShvoqCxgFJuy9aie8CTNowrhPRbA9cyAYjgjvUvDhKBQ655zabjQKhEe73"
